@@ -23,12 +23,12 @@ dependencies:
   collection: ^1.15.0
   xml: ^5.2.0
 
-//dev_dependencies:
-//  lint: ^1.8.2
-//  flutter_test:
-//    sdk: flutter
-//  flutter_localizations:
-//    sdk: flutter
+# dev_dependencies:
+#  lint: ^1.8.2
+#  flutter_test:
+#    sdk: flutter
+#  flutter_localizations:
+#    sdk: flutter
 
 flutter:
   plugin:
